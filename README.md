@@ -24,6 +24,6 @@ In Lower Manhattan,
 - The most sold product was "Barista Espresso".
 
 ## Considerable Business Decision 
-Changing operation hours to 6pm could possibly increase the margins.
+Changing operation hours to 6am - 6pm could possibly increase the margins.
 
 
