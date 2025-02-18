@@ -1,5 +1,5 @@
 # Excel--Data Analysis Dashboard
-This is my first Data Visualization project on Excel.
+This is my first Data Visualization project in Excel.
 
 ## Project Overview
 You became a franchise owner of Honeybun, a coffee shop chain with three locations across New York City. To better understand purchase behavior and streamline operations, you've collected transactional data from the first half of 2023. Your goal is to transform this data into an interactive, dynamic dashboard that you and other franchise owners can use to identify patterns, trends, and opportunities for the business.
